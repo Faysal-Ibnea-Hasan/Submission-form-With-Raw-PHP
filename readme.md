@@ -1,0 +1,13 @@
+--> What you need to install:
+-> PHP letest version.
+-> Xampp letest version.
+-> VS CODE letest version.
+
+--> Steps:
+-> Extract the zip file and move the Task folder to C:\xampp\htdocs directory.
+-> Run the Xampp application and start apache server and mysql server.
+-> Open your Xampp mysql admin panel and create a new project named "xpeed".
+-> Go to your browser and hit http://localhost/task/create_table.php to create the table. It will automaticatically add columns to the table.
+-> Now you can goto http://localhost/task/home.php to navigate between submissions form and report.
+-> Create submissions with proper values and rules.
+-> In the report section you can search results by entering the userId/entry_by.
